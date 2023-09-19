@@ -1,0 +1,6 @@
+---
+title: "Data Wrangling I"
+author: "Jessie Li"
+date: "2023-09-19"
+output: github_document
+---
